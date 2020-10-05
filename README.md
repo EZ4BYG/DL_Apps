@@ -18,6 +18,13 @@ Contents: some examples of applications of Deep learning in earth sciences
 - The image annotation assignment is completed with PS, auxiliary drawing board + some small functions
 - All programs are written on jupyter notebook with Python, so all files' suffix is .ipynb
 
+# Time: 2020.10.01
+- Neural Network Framework: having the basic functions like Tensorflow, Pytorch!
+
+**Tips**:
+- The framwork has all basic functions: forward propagation, apply gradient descent,  back propagation, predict, etc. 
+- Need extra python packages: numpy, matplotlib, sklearn
+
 ---
 
 # 深度学习实例：
@@ -39,4 +46,11 @@ Contents: some examples of applications of Deep learning in earth sciences
 - 本例用到的数据集来自真实的卫星遥感影像图片，整个任务包含从图像标注到模型训练好到最后的调参，很详细！
 - 标注部分用PS完成，辅助绘图板 + 一个小函数
 - 所有的程序都是在jupyter notebook上用python实现的，所有文件后缀都是.ipynb
+
+# 时间：2020.10.01
+- 神经网络框架：自己编写的从0到1的神经网络，和Tensorflow和Pytorch拥有一样的基本功能！
+
+**注意**：
+- 该网络框架有所有的基础功能：前向传播、应用梯度下降、后向传播、预测等
+- 需要额外的python包：numpy、matplotlib、sklearn
     
