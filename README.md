@@ -19,7 +19,7 @@ Contents: some examples of applications of Deep learning in earth sciences
 - All programs are written on jupyter notebook with Python, so all files' suffix is .ipynb
 
 # Time: 2020.10.01
-- Neural Network Framework: having the basic functions like Tensorflow, Pytorch!
+- Neural Network Framework, having the basic functions like Tensorflow, Pytorch: **ANN** folder
 
 **Tips**:
 - The framwork has all basic functions: forward propagation, apply gradient descent,  back propagation, predict, etc. 
