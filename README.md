@@ -16,6 +16,7 @@ Contents: some examples of applications of Deep learning in earth sciences
 - In the **Unet** folder, there is **Pretreatment** folder which includes many preprocessing functions for raw image data, such as cutting, merging, 0/1 transfer, etc. Please see the readme file in the **Pretreatment** for details
 - The data set used in this example comes from real satellite remote sensing images. The whole task includes from image annotation to model training to the final parameters' adjustment, very detailed!
 - The image annotation assignment is completed with PS, auxiliary drawing board + some small functions
+- All programs are written on jupyter notebook with Python, so all files' suffix is .ipynb
 
 ---
 
@@ -35,6 +36,7 @@ Contents: some examples of applications of Deep learning in earth sciences
 
 **注意**：
 - 在Unet文件夹中还有一个Pretreatment文件夹，里面是各种对原始图像数据进行预处理的函数：切割、合并、0/1值等；具体细节看Unet文件夹中的说明
-- 本例用到的数据集来自真实的卫星遥感影像图片，整个任务包含从图像标注到模型训练好到最后的调参，非常详细！
+- 本例用到的数据集来自真实的卫星遥感影像图片，整个任务包含从图像标注到模型训练好到最后的调参，很详细！
 - 标注部分用PS完成，辅助绘图板 + 一个小函数
+- 所有的程序都是在jupyter notebook上用python实现的，所有文件后缀都是.ipynb
     
