@@ -1,6 +1,6 @@
 # Deep Learning Examples
 
-Contents: some examples of applications of Deep learning in earth sciences
+Contents: some Deep Learning application examples in earth sciences
 
 # Time: 2018.10.28
 - Using Tensorflow1.2 to build CNN network to identify and classify satellite remote sensing images: **Classfication** Folder
