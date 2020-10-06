@@ -18,6 +18,13 @@ Contents: some Deep Learning application examples in earth sciences
 - The image annotation assignment is completed with PS, auxiliary drawing board + some small functions
 - All programs are written on jupyter notebook with Python, so all files' suffix is .ipynb
 
+# Time: 2020.07.11
+- Image denoising autoencoder: **GAN** folder
+
+**Tips**:
+- Programs include a fully connected autoencoder and a convolutional autoencoder, for removing gaussian random noise in images
+- Applications: Autoencoders can denoise 1D signals(seismic records) and 2D images(satellite images). The output data scale is always the same as the input data scale!
+
 # Time: 2020.10.01
 - Neural Network Framework, having the basic functions like Tensorflow, Pytorch: **ANN** folder
 
@@ -46,6 +53,13 @@ Contents: some Deep Learning application examples in earth sciences
 - 本例用到的数据集来自真实的卫星遥感影像图片，整个任务包含从图像标注到模型训练好到最后的调参，很详细！
 - 标注部分用PS完成，辅助绘图板 + 一个小函数
 - 所有的程序都是在jupyter notebook上用python实现的，所有文件后缀都是.ipynb
+
+# 时间：2020.07.11
+- 图像去噪自编码器：**GAN** 文件夹中
+
+**注意**：
+- 程序包括全连接自编码器和卷积自编码器，用来去除图像中的高斯随机噪声
+- 应用：自编码器可以用来对1维（地震记录）和2维（卫星图片）数据去噪。输出数据尺寸要和输入数据尺寸保持一致！
 
 # 时间：2020.10.01
 - 神经网络框架：自己编写的从0到1的神经网络，和Tensorflow和Pytorch拥有一样的基本功能！
