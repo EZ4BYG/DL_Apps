@@ -20,8 +20,8 @@ Contents: each program function is shown in the file name
 - Compare and contrast the label sub-images with the original sub-images
 
 **预测后中间层展示.ipynb**: √
-- Draw the output of any middle layer(all neurons) during model prediction(01 value images): easily to see what each layer is doing! Very Useful!!
-- Check all weights and bias of any middle layer during model prediction(matrix): easily to see the variation of these super-parameters! Very Useful!!
+- Draw the output of any middle layer(all neurons) during model prediction(01 value images): see what each layer is doing! Useful!!
+- Check all weights and bias of any middle layer during model prediction(matrix): see the variation of these super-parameters! Useful!!
 
 ---
 
