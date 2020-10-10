@@ -1,4 +1,4 @@
-# Little programs that preprocess raw data
+# Little programs that Preprocess raw data + Model prediction
 
 Contents: each program function is shown in the file name
 
@@ -18,6 +18,10 @@ Contents: each program function is shown in the file name
 
 **subplot绘图调整.ipynb**:
 - Compare and contrast the label sub-images with the original sub-images
+
+**预测后中间层展示.ipynb**: √
+- Draw the output of any middle layer(all neurons) during model prediction(01 value images): easily to see what each layer is doing! Very Useful!!
+- Check all weights and bias of any middle layer during model prediction(matrix): easily to see the variation of these super-parameters! Very Useful!!
 
 ---
 
@@ -40,4 +44,7 @@ Contents: each program function is shown in the file name
 
 **subplot绘图调整.ipynb**:
 - 专门负责绘制原始子图和标签子图的对比图
- 
+
+**预测后中间层展示.ipynb**: √
+- 绘制模型预测过程中，任意中间层的输出（01值）：很容易查看每个层在做什么！非常有用！
+- 查看模型预测过程中，每个中间层的权重和偏置系数（矩阵）：很容易查看这些超参数的变换！非常有用！
