@@ -32,6 +32,11 @@ Contents: some Deep Learning application examples in earth sciences
 - The framwork has all basic functions: forward propagation, apply gradient descent,  back propagation, predict, etc. 
 - Need extra python packages: numpy, matplotlib, sklearn
 
+# Time：2020.12.12
+- Face Liveness Detection
+
+Description: Face Liveness Detection is a projetc that we should design a network based on CNN to distinguish between **Real-person photo image** and **Photo-person photo image**. 
+
 ---
 
 # 深度学习实例：
