@@ -1,3 +1,5 @@
+![image](https://github.com/EZ4BYG/DL_Apps/blob/master/Unet/Result.jpg)
+
 **Tips**:
 - Ordinary files: They are all Unet related programs(different network structure), you can just try all of that or just run the 沙漠Unet_8x8.ipynb
 - Pretreatment folder: There are many preprocessing functions
